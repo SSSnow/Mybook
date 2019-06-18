@@ -52,3 +52,7 @@
     ![](/assets/gitbook_serve_err.PNG)
 解决办法如下：
 打开C:\Users\Administrator\.gitbook\versions\3.2.3\lib\output\website\copyPluginAsserts.js， 修改文件的112行,将confirm:true改为false。
+    ![](/assets/gitbook_serve_sv.PNG)
+再次运行，将启动服务器，如下所示
+    ![](/assets/gitbook_serve_sc.PNG)
+
