@@ -26,4 +26,20 @@
    ![](/assets/gitbook_login.PNG)
 创建成功后找到SUMMARY.md,注意创建成功后，生成两个文件，一个是README.md是对书籍的简单介绍，一个是SUMMARY.md是书籍的目录结构。
     ![](/assets/gitbook_summary.PNG)
-点击右下角的"?",勾选Edit Markdown
+点击右下角的"?",勾选Edit Markdown.
+输入以下内容
+```
+```
+#Summary
+
+* [Introduction](README.md)
+* [第一章](chapter1/README.md)
+* [第一节](chapter1/section1.md)
+* [第二节](chapter1/section2.md)
+* [第二章](chapter2/README.md)
+* [第一节](chapter2/section1.md)
+* [第二节](chapter2/section2.md)
+* [结束](end/README.md)
+```
+```
+
