@@ -14,3 +14,10 @@
     下载[GitBook Editor windows版](https://www.gitbook.com/editor/)
     安装成功后桌面会有个gitbook图标
     双击打开查看是否安装成功:
+    ![](/assets/gitbook_login_1.PNG)
+    点击下面的"Do that later",免登陆进入主界面。
+    然后开始安装gitbook，在目录下运行cmd控制台，输入：
+    `npm install gitbook -cli -g`
+
+    
+    ![](/assets/gitbook_login.PNG)
