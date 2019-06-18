@@ -44,5 +44,11 @@
 ```
     ![](/assets/gitbook_summary_1.PNG)
 
-然后切换到项目目录下，打开命令行窗口，输入''' gitbook init'''进行初始化，如果没安装gitbook,会自动安装gitbook，需要等待一段时间，安装完成后，开始初始化，初始化完成生成如下所示文件。
+然后切换到项目目录下，打开命令行窗口，输入``` gitbook init```进行初始化，如果没安装gitbook,会自动安装gitbook，需要等待一段时间，安装完成后，开始初始化，初始化完成生成如下所示文件。
+    ![](/assets/gitbook_init.PNG)
 
+然后再输入``` gitbook serve```命令启动服务器，运行查看效果。
+如果安装的是gitbook 2.3.2版本话报错，报错如下
+    ![](/assets/gitbook_serve_err.PNG)
+解决办法如下：
+打开C:\Users\Administrator\.gitbook\versions\3.2.3\lib\output\website\copyPluginAsserts.js， 修改文件的112行,将confirm:true改为false。
