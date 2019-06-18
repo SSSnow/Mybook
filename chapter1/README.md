@@ -25,4 +25,5 @@
 比如创建项目test点击Confirm创建，可以看到如下界面。
    ![](/assets/gitbook_login.PNG)
 创建成功后找到SUMMARY.md,注意创建成功后，生成两个文件，一个是README.md是对书籍的简单介绍，一个是SUMMARY.md是书籍的目录结构。
-![](/assets/gitbook_summary.PNG)
+    ![](/assets/gitbook_summary.PNG)
+点击右下角的"?",勾选Edit Markdown
