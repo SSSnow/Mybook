@@ -1,3 +1,3 @@
 # GitBook环境搭建
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本书主要在win10系统下搭建，详细说明环境配置及相关错误解决办法。
