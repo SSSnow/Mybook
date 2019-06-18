@@ -18,6 +18,8 @@
     点击下面的"Do that later",免登陆进入主界面。
     然后开始安装gitbook，在目录下运行cmd控制台，输入：
     `npm install gitbook -cli -g`
-##配置gitbook目录    
+##配置gitbook目录
+在GitBook Editor界面菜单中找到Change Library Path..来改变工作路径。
+
     
     ![](/assets/gitbook_login.PNG)
