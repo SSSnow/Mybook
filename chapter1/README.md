@@ -42,4 +42,5 @@
 * [结束](end/README.md)
 ```
 ```
+    ![](/assets/gitbook_summary_1.PNG)
 
