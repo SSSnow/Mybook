@@ -55,4 +55,9 @@
     ![](/assets/gitbook_serve_sv.PNG)
 再次运行，将启动服务器，如下所示
     ![](/assets/gitbook_serve_sc.PNG)
+可以在浏览器中访问[http://localhost:4000](http://localhost:4000)进行访问。
 
+关于图片,你可以在项目下创建assets文件夹将资源丢在assets文件夹中 然后可以多拽 或手动引入
+
+##其他
+其实还有更加方便的使用,就是你可以直接通过 gitbook editor 创建好项目后通过gitbook build或gitbook serve命令运行编译,后直接把编译好的目录下有个 _book 拷出来 放在自己的服务器上
