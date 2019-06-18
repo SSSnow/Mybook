@@ -19,6 +19,18 @@ ADRCP_y:表示悬停时使用ADRC的 Pitchrate的测量值；
 
 * 比较设定值变化比较大的情况下的横滚通道和俯仰通道的动态效果
 ![](/assets/Roll_Resp.png)
+![](/assets/Pitch_Resp.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
