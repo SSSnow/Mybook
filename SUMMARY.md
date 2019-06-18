@@ -3,7 +3,7 @@
 * [项目简介](chapter1.md)
 #Summary
 
-* [Introduction](README.md)
+* [gitbook安装](README.md)
 * [第一章](chapter1/README.md)
     * [第一节](chapter1/section1.md)
     * [第二节](chapter1/section2.md)
