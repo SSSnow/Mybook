@@ -23,4 +23,4 @@
 ![](/assets/gitbook_Path.PNG)
 ##创建测试项目
 比如创建项目test点击Confirm创建，可以看到如下界面。
-![](/assets/gitbook_login.PNG)
+    ![](/assets/gitbook_login.PNG)
