@@ -21,6 +21,6 @@
 ##配置gitbook目录
 在GitBook Editor界面菜单中找到Change Library Path..来改变工作路径。
 ![](/assets/gitbook_Path.PNG)
-
-    
-    ![](/assets/gitbook_login.PNG)
+##创建测试项目
+比如创建项目test点击Confirm创建，可以看到如下界面
+![](/assets/gitbook_login.PNG)
