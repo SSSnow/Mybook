@@ -44,3 +44,5 @@
 ```
     ![](/assets/gitbook_summary_1.PNG)
 
+然后切换到项目目录下，打开命令行窗口，输入''' gitbook init'''进行初始化，如果没安装gitbook,会自动安装gitbook，需要等待一段时间，安装完成后，开始初始化，初始化完成生成如下所示文件。
+
